@@ -1,5 +1,6 @@
 # parking-lot
 Anarchic area for ideas and discussion
 
-## Scope
-*Whom shall the robocrat govern, and to what ends?*
+## Discussions
+
+[Some questions separated by headers.](some-questions-separated-by-headers.md)
